@@ -5,7 +5,9 @@
 - 🌐 You can read my personal website on [doug-mcfadyen.onrender.com](https://doug-mcfadyen.onrender.com/)
 - 📎 You can see my LinkedIn at [www.linkedin.com/in/douglas-mcfadyen/](https://www.linkedin.com/in/douglas-mcfadyen/)
 
+---
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=McFad101&count_private=true&hide=stars,prs,issues,contribs)
+
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
