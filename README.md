@@ -1,7 +1,7 @@
 
 ### I'm Doug, welcome to my GitHub profile
 
-- 🔭 I've recently graduated with a MSc in Information Technology from The University of Aberdeen
+- 👨‍🎓 I've recently graduated with a MSc in Information Technology from The University of Aberdeen
 - 🌐 You can read my personal website on [doug-mcfadyen.onrender.com](https://doug-mcfadyen.onrender.com/)
 - <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="Python" **alt="Python" width="20" height="20"/> You can see my LinkedIn at www.linkedin.com/in/douglas-mcfadyen/
